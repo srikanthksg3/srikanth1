@@ -19,8 +19,8 @@ public class Test {
 	          
 	        Address a1=new Address();  
 	        a1.setE_pincode(201301);  
-	        a1.setE_city("Noida");  
-	        a1.setE_state("Uttar Pradesh");
+	        a1.setE_city("Hyderabad");  
+	        a1.setE_state("Telangana");
 	          
 	        Address a2=new Address();  
 	        a2.setE_pincode(302001);  
