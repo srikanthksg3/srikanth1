@@ -22,8 +22,8 @@ public class StoreData {
 		Transaction t = session.beginTransaction();
 		
 		Employee e1= new Employee();
-		e1.setId(1);
-		e1.setFirstName("Srikanth");
+		e1.setId(2);
+		e1.setFirstName("Naveen");
 		e1.setLastName("Kannapuram");
 		
 		session.save(e1);
